@@ -1,0 +1,76 @@
+header{
+  background-color: #358F41;
+  width: 100%;
+  height: 200px;
+}
+footer{
+  background-color: #358F41;
+  width: 100%;
+height: 200px;
+}
+#rood{
+  background-color: red;
+  color: yellow;
+}
+#blauw{
+  background-color: blue;
+
+}
+#paars{
+  background-color: purple;
+color: plum;
+}
+#geel{
+  background-color: yellow;
+
+}
+#groen{
+  background-color: green;
+    color: purple;
+}
+#royalblue{
+  background-color: royalblue;
+}
+#oranje{
+  background-color: orange;
+  color: red;
+}
+#roze{
+  background-color: pink;
+}
+#Aqua{
+  background-color: aqua;
+    color:blue
+}
+#Gold{
+  background-color: gold;
+}
+#Tan{
+  background-color: tan;
+  color: olive;
+}
+#Coral{
+  background-color: coral;
+}
+#Olive{
+  background-color: olive;
+  color:red
+}
+#Midnightblue{
+  background-color: midnightblue;
+}
+#Slategrey{
+  background-color: slategrey;
+  color: coral;
+}
+#Plum{
+  background-color: plum;
+}
+th{
+  background-color: black;
+  color: white;
+}
+tfoot{
+  background-color: black;
+  color: white;
+}
